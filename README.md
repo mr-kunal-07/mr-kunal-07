@@ -33,20 +33,7 @@
 ---
 
 [![](https://visitcount.itsvg.in/api?id=mr-kunal-07&icon=10&color=10)](https://visitcount.itsvg.in)
-<h1>Page Views: <span id="visit-count">Loading...</span></h1>
+[![](https://visitcount.itsvg.in/api?id=mr-kunal-07&icon=10&color=10)](https://visitcount.itsvg.in)
 
- <script>
-        async function getVisitCount() {
-            const response = await fetch('https://visitcount.itsvg.in/api?id=mr-kunal-07&icon=10&color=10');
-            const data = await response.json();
-            return data.value;
-        }
+### Page Views: 300
 
-        async function displayVisitCount() {
-            const initialCount = 100;
-            const visitCount = await getVisitCount();
-            document.getElementById('visit-count').innerText = initialCount + visitCount;
-        }
-
-        displayVisitCount();
-    </script>
