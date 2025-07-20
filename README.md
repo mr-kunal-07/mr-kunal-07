@@ -4,24 +4,23 @@
 <h3 align="center">A passionate developer from India</h3>
 
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mr-kunal-07&label=Profile%20views&color=0e75b6&style=flat" alt="mr-kunal-07" /> </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=geekyvaishnavi&label=Profile%20views&color=0e75b6&style=flat" alt="geekyvaishnavi" /> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mr-kunal-07" alt="mr-kunal-07" /></a> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=geekyvaishnavi" alt="geekyvaishnavi" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/geekyvaishnavi" target="blank"><img src="https://img.shields.io/twitter/follow/geekyvaishnavi?logo=twitter&style=for-the-badge" alt="geekyvaishnavi" /></a> </p>
+<p align="left"> <a href="https://twitter.com/mr-kunal-07" target="blank"><img src="https://img.shields.io/twitter/follow/mr-kunal-07?logo=twitter&style=for-the-badge" alt="mr-kunal-07" /></a> </p>
 
 - 🌱 I’m currently learning **Data Science**
 
-- 📫 How to reach me **geekyvaishnavi@gmail.com**
+- 📫 How to reach me **mr-kunal-07@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
-<a href="https://linkedin.com/in/geekyvaishnavi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="geekyvaishnavi" height="30" width="40" /></a>
-<a href="https://twitter.com/geekyvaishnavi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="geekyvaishnavi" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/geekyvaishnavi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="geekyvaishnavi" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/geekyvaishnavi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="geekyvaishnavi" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/mr-kunal-07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mr-kunal-07" height="30" width="40" /></a>
+<a href="https://twitter.com/mr-kunal-07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mr-kunal-07" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/mr-kunal-07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mr-kunal-07" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/mr-kunal-07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="mr-kunal-07" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
