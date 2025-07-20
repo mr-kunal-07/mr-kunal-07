@@ -5,11 +5,11 @@
   <img src="https://komarev.com/ghpvc/?username=mr-kunal-07&label=Profile%20views&color=0e75b6&style=flat" alt="mr-kunal-07" />
 </p>
 
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank" rel="noopener noreferrer">
-    <img src="https://github-profile-trophy.vercel.app/?username=mr-kunal-07" alt="GitHub Trophies" />
-  </a>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Source%20Code%20Pro&size=22&duration=1000&pause=650&color=00FF00&center=true&vCenter=true&width=550&lines=Welcome%20to%20my%20GitHub!;I'm%20Kunal%20Jadhav;I%20build%20full-stack%20web%20apps;Exploring%20AI%20and%20Cloud%20tech%20%F0%9F%A7%A0" alt="Typing SVG" />
 </p>
+
+
 
 <p align="left">
   <a href="https://twitter.com/kunaljadhav02" target="_blank" rel="noopener noreferrer">
