@@ -8,12 +8,16 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mr-kunal-07" alt="mr-kunal-07" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/mr-kunal-07" target="blank"><img src="https://img.shields.io/twitter/follow/mr-kunal-07?logo=twitter&style=for-the-badge" alt="mr-kunal-07" /></a> </p>
+<p align="left">
+  <a href="https://twitter.com/kunaljadhav02" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/twitter/follow/kunaljadhav02?logo=twitter&style=for-the-badge" alt="Follow Kunal Jadhav on Twitter" />
+  </a>
+</p>
+
 
 - 🌱 I’m currently learning **Data Science**
-
+- 😎 My Portfoilo **[kunaljadhav2305@gmail.com](https://kunaljadhav.vercel.app/)**
 - 📫 How to reach me **kunaljadhav2305@gmail.com**
-- 📫 My Portfoilo **[kunaljadhav2305@gmail.com](https://kunaljadhav.vercel.app/)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
