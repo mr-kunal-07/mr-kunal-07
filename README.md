@@ -12,7 +12,8 @@
 
 - 🌱 I’m currently learning **Data Science**
 
-- 📫 How to reach me **mr-kunal-07@gmail.com**
+- 📫 How to reach me **kunaljadhav2305@gmail.com**
+- 📫 My Portfoilo **[kunaljadhav2305@gmail.com](https://kunaljadhav.vercel.app/)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
