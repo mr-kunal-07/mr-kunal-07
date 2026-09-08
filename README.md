@@ -20,7 +20,7 @@
 ---
 
 - 🌱 I’m currently learning **Data Science**
-- 🌐 My Portfolio: [kunaljadhav.vercel.app](https://kunaljadhav.vercel.app/)
+- 🌐 My Portfolio: [kunaljadhav.vercel.app](https://kunaltech.vercel.app/)
 - 📫 How to reach me: **kunaljadhav2305@gmail.com**
 
 ---
